@@ -28,14 +28,9 @@ A typical structure may look like this:
 ```text
 ADV_submission/
 ├── README.md
-├── docs/
-│   └── assignment-notes.md
-├── src/
-│   └── project files
-├── tests/
-│   └── validation files
-├── requirements.txt
-└── project files or scripts
+├── TP/
+│   └── TP1.md
+
 ```
 
 ## Setup
