@@ -31,39 +31,3 @@ ADV_submission/
 ├── TP/
 │   └── TP1.md
 
-```
-
-## Setup
-
-1. Clone the repository.
-2. Open the project in your preferred development environment.
-3. Install dependencies if required.
-4. Run the project or tests according to the assignment instructions.
-
-## Usage
-
-Use this repository to:
-
-- review the assignment requirements
-- develop and test the project
-- document key implementation steps
-- submit the final work in an organized format
-
-## Notes
-
-This README is a starting template for the TP assignment and project. You can update it later with:
-
-- the project title
-- team member names
-- assignment description
-- technologies used
-- setup instructions
-- screenshots or demo information
-
-## Submission
-
-This repository is intended to serve as the final submission for the TP assignment and project work.
-
----
-
-If needed, this README can be customized further with specific course details, project goals, or implementation instructions.
